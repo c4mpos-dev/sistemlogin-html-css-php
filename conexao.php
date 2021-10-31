@@ -4,5 +4,5 @@ $usuario = "root";
 $senha = "";
 $dbname = "site";
 
-//Criar a conexa
+//Criar a conexão
 $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
